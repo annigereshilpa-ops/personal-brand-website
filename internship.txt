@@ -1,0 +1,13 @@
+PROGRAM 1:
+- Name: Full-Stack Web Engineering
+- Duration: [e.g., 6 Weeks / 8 Weeks]
+- Topics Covered: HTML, CSS, JavaScript, React, Node.js, Databases
+- Target Audience: Engineering Students & Beginners
+- Registration Link: [Link to your Google Form or Application Link]
+
+PROGRAM 2:
+- Name: Software Automation & Architecture
+- Duration: [e.g., 4 Weeks]
+- Topics Covered: Python, Code Generation, Cloud Basics, System Design
+- Target Audience: Advanced Students & Developers
+- Registration Link: [Link to your Google Form or Application Link]
