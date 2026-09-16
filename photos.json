@@ -3,21 +3,21 @@
     "id": 1,
     "title": "Guest Speaker Session",
     "category": "Keynotes",
-    "image": "images/photo1.jpg",
+    "image": "photo1.jpg",
     "description": "Addressing engineering students and faculty on modern technology trends."
   },
   {
     "id": 2,
     "title": "Full-Stack Internship Cohort",
     "category": "Mentorship",
-    "image": "images/photo2.jpg",
+    "image": "photo2.jpg",
     "description": "Hands-on mentorship and practical web application development."
   },
   {
     "id": 3,
     "title": "Software Architecture Workshop",
     "category": "Workshops",
-    "image": "images/photo3.jpg",
+    "image": "photo3.png",
     "description": "Demonstrating automated software development and design patterns."
   }
 ]
